@@ -18,6 +18,7 @@ Applying functions and lambda
 Basic plotting with Pandas
 
 🛠 Tools Used
+
 Python
 
 Pandas
